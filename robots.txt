@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /politika.html
+
+Sitemap: https://romjjjke.github.io/kuzovik/sitemap.xml
